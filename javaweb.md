@@ -62,7 +62,7 @@ servlet是一种反人类的设计思路(对机器友好,有很强的拓展型,�
 而jsp则是简介操作servlet的另一种方式    
 
 其实java web说道这就结束了,但要想做一个动态页面,还远远不够,你总得有数据吧    
-![image](https://github.com/Glimis/javaweb/raw/master/img/6.png)    
+![image](https://github.com/Glimis/javaweb/raw/master/img/7.png)    
 ![image](https://github.com/Glimis/javaweb/raw/master/img/8.png)    
 这两货总得了解一个吧    
 当你了解完了,你才发现,你根本不能讲他们打通
