@@ -22,6 +22,15 @@
 比如web,原生java的web能力被php完爆(毕竟php是世界上最好的语言)    
 为了迎接挑战,java提供了java web    
 
+
+## web是什么
+web 就是页面,有html+css+javascript组成    
+
+but,每天全世界要消耗上亿个页面    
+假设每个页面都由工程狮由html生成,那么    
+![image](https://github.com/Glimis/javaweb/raw/master/img/16.png)    
+很显然,只写一次,却可以展示不同数据的动态页面就这么被需求了    
+那么web其实就包含了动态页面这种需求
 ## java web
 
 ![image](https://github.com/Glimis/javaweb/raw/master/img/3.png)    
@@ -52,7 +61,7 @@ servlet根本没几个人直接用(提供容器的公司除外,比如tomcat...)
 servlet是一种反人类的设计思路(对机器友好,有很强的拓展型,但不好开发)    
 而jsp则是简介操作servlet的另一种方式    
 
-其实java web说道这就结束了,但要想做一个页面,还远远不够,你总得有数据吧    
+其实java web说道这就结束了,但要想做一个动态页面,还远远不够,你总得有数据吧    
 ![image](https://github.com/Glimis/javaweb/raw/master/img/6.png)    
 ![image](https://github.com/Glimis/javaweb/raw/master/img/8.png)    
 这两货总得了解一个吧    
@@ -70,3 +79,16 @@ jsp V
 或者    
 ![image](https://github.com/Glimis/javaweb/raw/master/img/15.png)    
 就可以了
+
+
+## 后记
+你以为生活就这么简单?     
+![image](https://github.com/Glimis/javaweb/raw/master/img/17.png)    
+
+当后台pv破百万的时候,你需要更牛逼的方式来搭建整个后台-》分布式    
+当每天录入数据破亿的时候,你需要更牛逼的算法来处理-》算法,hadoop    
+当一个页面内容足够多的时候,你会发现-》前端性能    
+当前端业务足够复杂的时候,你会发现-》前后端分离与前端工程狮    
+....    
+显然,今天就讲到这里    
+![image](https://github.com/Glimis/javaweb/raw/master/img/18.png)    
